@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manjinder Singh.
-- 👀 I’m interested in Web Development Technologies.
+- 👀 I’m interested in Learning Web dev frameworks and technologies.
 - 🌱 I’m currently studying at BrainStation
 - 📫 You can reach me at smanjinder96.ms@gmail.com
 - ⏰ Stay tuned more projects are coming....

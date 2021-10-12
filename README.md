@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manjinder Singh.
-- 👀 I’m interested in Learning Web dev frameworks and technologies.
-- 🌱 I’m currently studying at BrainStation
-- 📫 You can reach me at smanjinder96.ms@gmail.com
+- 👀 I’m a full-stack web developer.
+- 🌱 I’m currently working with leet code and hacker rank problem to sharpen my programming skills.
+- 📫 You can reach out to me at smanjinder96.ms@gmail.com
 - ⏰ Stay tuned more projects are coming....
 
 <!---
